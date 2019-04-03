@@ -12,6 +12,8 @@
 
 - [Angular University](https://angular-university.io/)
 - [Nx](https://nx.dev/)
+- [ng-bootstrap](https://ng-bootstrap.github.io)
+- [ngx-bootstrap](https://valor-software.com/ngx-bootstrap/)
 
 ### RectiveX
 
