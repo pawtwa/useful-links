@@ -14,6 +14,8 @@
 - [JSON Schema Generator](https://jsonschema.net/)
 - [JSON Schema Validator](https://www.jsonschemavalidator.net/)
 - [JSON Schema Faker](https://json-schema-faker.js.org/)
+- [Fake data generator - Change JS](https://chancejs.com)
+- [Fake data generator - Faker JS](https://github.com/marak/Faker.js/)
 
 ### Angular
 
