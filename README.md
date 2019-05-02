@@ -13,6 +13,7 @@
 - [JSON Generator](https://www.json-generator.com/)
 - [JSON Schema Generator](https://jsonschema.net/)
 - [JSON Schema Validator](https://www.jsonschemavalidator.net/)
+- [JSON Schema Faker](https://json-schema-faker.js.org/)
 
 ### Angular
 
