@@ -8,6 +8,12 @@
 - [Frontend Masters](https://frontendmasters.com/)
 - [Plurals Sight](https://www.pluralsight.com/)
 
+### JSON Schema
+
+- [JSON Generator](https://www.json-generator.com/)
+- [JSON Schema Generator](https://jsonschema.net/)
+- [JSON Schema Validator](https://www.jsonschemavalidator.net/)
+
 ### Angular
 
 - [Angular University](https://angular-university.io/)
